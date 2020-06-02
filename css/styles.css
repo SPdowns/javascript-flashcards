@@ -1,0 +1,22 @@
+.jumbotron {
+  text-align: center;
+  background-color: #EEE8A9;
+  color: #3C93F2
+}
+
+body {
+  background-image: linear-gradient(to left bottom, #3a6bb4, #5272ca, #6f77df, #907af1, #b47bff);
+}
+p {
+  display: none;
+}
+
+.card {
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  padding: 5px;
+  color: wheat;
+  background-image: radial-gradient(circle, #053733, #00644b, #009251, #54c044, #a8eb12);
+}
