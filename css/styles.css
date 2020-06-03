@@ -5,13 +5,15 @@
 }
 
 body {
+  padding: 50px;
   background-image: linear-gradient(to left bottom, #3a6bb4, #5272ca, #6f77df, #907af1, #b47bff);
 }
-p {
+.definition {
   display: none;
 }
 
 .card {
+  width: 350px;
   border: 5px;
   border-style: solid;
   border-color: black;
